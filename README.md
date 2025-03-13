@@ -4,6 +4,7 @@ This resource was made possible through funding provided under the Epidemiology 
 [Training](Training/Training.md)
 
 Mountain Region Members:
+![Logo of AMD Mountain region showing all member states in various colors. Text reads "AMD Training Lead and Bioninformatics Regional Resource"](Misc/Copy of AMD-logo-01.jpg)
 * Utah (Bioinformatics Regional Resource (BRR) Bioinformatics Training Lead (BTL))
 * Colorado (Bioinformatics Regional Resource (BRR) Bioinformatics Training Lead (BTL))
 * Montana
