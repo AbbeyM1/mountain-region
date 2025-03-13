@@ -14,6 +14,9 @@ Mountain Region Members:
 * Arizona
 * Texas
 
+### Meetings
+[2025 AMD Mountain Regional Bioinformatics Conference](Misc/Conference Agenda Flyer.pdf)
+
 ### Relevant Links
 [CDC's Advanced Molecular Detection (AMD) program](https://www.cdc.gov/amd/who-we-are/index.html)\
 [StaPH-B (State Public Health Bioinformatics) Group](https://linktr.ee/staphb)
@@ -40,5 +43,11 @@ Colorado Department of Public Health and Environment
 Molly Hetherington-Rauth, MSc\
 molly.hetheringtonrauth@state.co.us\
 Bioinformatician\
+Colorado Public Health Laboratory\
+Colorado Department of Public Health and Environment
+
+Laura Bankers, PhD\
+laura.bankers@state.co.us\
+Bioinformatics and Genomic Analysis Supervisor\
 Colorado Public Health Laboratory\
 Colorado Department of Public Health and Environment
