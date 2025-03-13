@@ -13,3 +13,32 @@ Mountain Region Members:
 * New Mexico
 * Arizona
 * Texas
+
+### Relevant Links
+[CDC's Advanced Molecular Detection (AMD) program](https://www.cdc.gov/amd/who-we-are/index.html)\
+[StaPH-B (State Public Health Bioinformatics) Group](https://linktr.ee/staphb)
+
+## Contact your BRR/co-WFD Leads
+Erin Young, PhD\
+eriny@utah.gov\
+Bioinformatician\
+Utah Public Health Laboratory\
+Utah State Department of Health and Human Services\
+
+Abbey Marye, MPH\
+amarye@utah.gov\
+Genomic Epidemiologist\
+Utah Public Health Laboratory\
+Utah State Department of Health and Human Services\
+
+Shannon Matzinger, PhD\
+shannon.matzinger@state.co.us\
+Genomic Surveillance Program Manager\
+Colorado Public Health Laboratory\
+Colorado Department of Public Health and Environment\
+
+Molly Hetherington-Rauth, MSc\
+molly.hetheringtonrauth@state.co.us\
+Bioinformatician\
+Colorado Public Health Laboratory\
+Colorado Department of Public Health and Environment\
