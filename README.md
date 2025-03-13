@@ -23,22 +23,22 @@ Erin Young, PhD\
 eriny@utah.gov\
 Bioinformatician\
 Utah Public Health Laboratory\
-Utah State Department of Health and Human Services\
+Utah State Department of Health and Human Services
 
 Abbey Marye, MPH\
 amarye@utah.gov\
 Genomic Epidemiologist\
 Utah Public Health Laboratory\
-Utah State Department of Health and Human Services\
+Utah State Department of Health and Human Services
 
 Shannon Matzinger, PhD\
 shannon.matzinger@state.co.us\
 Genomic Surveillance Program Manager\
 Colorado Public Health Laboratory\
-Colorado Department of Public Health and Environment\
+Colorado Department of Public Health and Environment
 
 Molly Hetherington-Rauth, MSc\
 molly.hetheringtonrauth@state.co.us\
 Bioinformatician\
 Colorado Public Health Laboratory\
-Colorado Department of Public Health and Environment\
+Colorado Department of Public Health and Environment
