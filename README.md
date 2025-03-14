@@ -15,7 +15,7 @@ Mountain Region Members:
 * Texas
 
 ### Meetings
-[2025 AMD Mountain Regional Bioinformatics Conference](Misc/Conference Agenda Flyer.pdf)
+[2025 AMD Mountain Regional Bioinformatics Conference](AMDCon2025/AMDCon2025.md)
 
 ### Relevant Links
 [CDC's Advanced Molecular Detection (AMD) program](https://www.cdc.gov/advanced-molecular-detection/about/?CDC_AAref_Val=https://www.cdc.gov/amd/who-we-are/index.html)\
