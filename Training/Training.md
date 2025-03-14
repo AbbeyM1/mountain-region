@@ -1,21 +1,15 @@
 # Training
-<details>
-  <summary>General Concepts in Genomic Epidemiology</summary>
-  If you would like an overview of the general concepts of genomic epidemiology, click to review the 
-  
-  [written resource](Training/General_Genomic_Epi_Concepts.pdf) 
-  
-  and the recorded presentation.
+## Links to sections:
+[General Concepts in Genomic Epidemiology](#general-concepts-in-genomic-epidemiology)
+[Bacterial and Viral Genomics](#bacterial-and-viral-genomics)
+[Phylogenetics](#phylogenetics)
+
+## General Concepts in Genomic Epidemiology
+  If you would like an overview of the general concepts of genomic epidemiology, click to review the [written resource](Training/General_Genomic_Epi_Concepts.pdf) and the recorded presentation.
   
   Other resources are available below:
-  
   * 
-</details>
+  
+## Bacterial and Viral Genomics
 
-<details>
-  <summary>Bacterial and Viral Genomics</summary>
-</details>
-
-<details>
-  <summary>Phylogenetics</summary>
-</details>
+## Phylogenetics
